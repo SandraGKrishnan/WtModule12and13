@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+
+sfdc:
+  username: "sandragk112@gmail.com"
+  password: "Sandy456789#"
+  token: "FubHK9udcEbFl2YEfxH3YRaf"
+
+file:
+  accountsDir: "C:/APDevFundamentals4.3_studentFiles_30oct2020/resources"
+  
+db:
+  host: "iltdb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
